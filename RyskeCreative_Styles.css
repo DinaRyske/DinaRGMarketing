@@ -177,8 +177,7 @@ flex-direction: column;
  font-style: italic;
  display: inline-block;
   justify-content: flex-end;
-
-
+padding-left: 5rem;
 }
 
 #intro p:hover {

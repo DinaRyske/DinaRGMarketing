@@ -156,7 +156,10 @@ border-bottom: 0.05rem solid #b9b8b8;
 
 #intro {
 display: flex;
-background-color: #b9b8b8;
+background-image: url('resources/backgroundimage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 align-items: center;
 justify-content: center;
 font-style: italic;

@@ -161,8 +161,8 @@ background-image: url("Resources/backgroundimage.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-align-items: center;
-justify-content: center;
+/*align-items: center;
+justify-content: center;*/
 font-style: italic;
 margin-top: 0rem;
 }
@@ -255,7 +255,6 @@ text-align: center;
 #ab-img {
 max-width: auto;
 height: 15rem;
-border-radius: 80%;
 margin: 1.5rem;
 }
 

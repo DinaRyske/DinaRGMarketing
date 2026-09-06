@@ -169,12 +169,16 @@ margin-top: 0rem;
 
 #intro-text {
 display:flex;
-flex-direction: column}
+flex-direction: column;
+}
 
 #intro p {
  transition: transform 0.3s ease;
  font-style: italic;
  display: inline-block;
+  justify-content: flex-end;
+
+
 }
 
 #intro p:hover {

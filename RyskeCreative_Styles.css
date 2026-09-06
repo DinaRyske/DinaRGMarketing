@@ -170,14 +170,14 @@ margin-top: 0rem;
 #intro-text {
 display:flex;
 flex-direction: column;
+ justify-content: flex-end;
+padding-left: 5rem;
 }
 
 #intro p {
  transition: transform 0.3s ease;
  font-style: italic;
  display: inline-block;
-  justify-content: flex-end;
-padding-left: 5rem;
 }
 
 #intro p:hover {

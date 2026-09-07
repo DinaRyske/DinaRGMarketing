@@ -137,6 +137,7 @@ font-family: "Inter", sans-serif;
 #prj-tiles h3 {
  justify-content: center;
  align-items: center;
+ text-align: center;
 }
 
 #prj-tiles, #social-media{

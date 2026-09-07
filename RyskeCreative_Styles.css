@@ -334,6 +334,11 @@ background-color:#4b434b;
     z-index: 11;
  }
 
+ #intro {
+background-image: url("Resources/Background-mobile.png");
+  background-color: #c5b0ca;
+ }
+ 
  #about-section{
     flex-direction: column;
     flex-wrap: wrap;

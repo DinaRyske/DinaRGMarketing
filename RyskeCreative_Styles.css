@@ -107,7 +107,7 @@ border-top: 0.05rem solid #b9b8b8;
 color: #4b434b
 }
 
-CTA-HOME a {
+#CTA-HOME a {
 color: #4b434b;
 }
 
@@ -335,9 +335,14 @@ background-color:#4b434b;
  }
 
  #intro {
-background-image: url("Resources/Background-mobile2.png");
+background-image: url("Resources/Background-mobile.png");
   background-color: #c5b0ca;
  }
+
+ #ab-img {
+max-width: auto;
+height: 13rem;
+margin: 1.5rem;
  
  #about-section{
     flex-direction: column;

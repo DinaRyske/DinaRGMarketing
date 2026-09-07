@@ -339,10 +339,13 @@ background-image: url("Resources/Background-mobile.png");
   background-color: #c5b0ca;
  }
 
+ #intro h2 {
+  flex-wrap: wrap;
+
  #ab-img {
 max-width: auto;
 height: 13rem;
-margin: 1.5rem;
+margin: 1rem;
  
  #about-section{
     flex-direction: column;

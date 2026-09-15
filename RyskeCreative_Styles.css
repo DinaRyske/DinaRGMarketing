@@ -107,15 +107,23 @@ border-top: 0.05rem solid #b9b8b8;
 color: #4b434b
 }
 
-#CTA-HOME, #CTA-CONTACT a {
+#CTA-CONTACT a {
 color: #4b434b;
+}
+
+#CTA-HOME a {
+ color: #4b434b;
 }
 
 #CTA a:visited {
 color: #363136;
 }
 
-#CTA-HOME, #CTA-CONTACT a:visited {
+#CTA-CONTACT a:visited {
+color: #363136;
+}
+
+#CTA-HOME a:visited {
 color: #363136;
 }
 
@@ -220,7 +228,7 @@ font-size: 1.1rem;
 }
 
 
-#skills, #certifications, #contact-info, #links, #degree, #services {
+#skills, #certifications, #contact-info, #links, #degree {
 display: flex;
 flex-direction: column;
 align-items: center;

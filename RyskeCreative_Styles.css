@@ -376,13 +376,17 @@ background-color:#4b434b;
 
  #intro {
   background-color: #c5b0ca;
-background-image: url("Resources/Background-mobile3.png");
  }
 
  #intro h2 {
   flex-wrap: wrap;
 
  #ab-img {
+max-width: auto;
+height: 13rem;
+margin: 1rem;
+
+   #portfolio-preview img {
 max-width: auto;
 height: 13rem;
 margin: 1rem;

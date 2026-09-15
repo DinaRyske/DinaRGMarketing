@@ -297,7 +297,7 @@ text-align: center;
 
 #ab-img {
 max-width: auto;
-height: 17rem;
+height: 18rem;
 margin: 1.5rem;
 }
 
@@ -317,6 +317,12 @@ height: 36rem;
 .projects img {
 height: 40rem;
 width: auto;
+}
+
+#portfolio-preview img {
+ max-width: auto;
+height: 20rem;
+margin: 1.5rem;
 }
 
 

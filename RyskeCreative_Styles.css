@@ -95,7 +95,7 @@ display: block;
 
 /*About me and cta on home page*/
 
-#about-me, #CTA-HOME {
+#about-me, #CTA-HOME, {
 margin: 1rem;
 padding: 1rem;
 gap: 1rem;
@@ -107,7 +107,7 @@ border-top: 0.05rem solid #b9b8b8;
 color: #4b434b
 }
 
-#CTA-HOME a {
+#CTA-HOME, #CTA-CONTACT a {
 color: #4b434b;
 }
 
@@ -115,7 +115,7 @@ color: #4b434b;
 color: #363136;
 }
 
-#CTA-HOME a:visited {
+#CTA-HOME, #CTA-CONTACT a:visited {
 color: #363136;
 }
 

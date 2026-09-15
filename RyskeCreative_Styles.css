@@ -399,6 +399,7 @@ display: none;
    }
 
   #prtfolio-prev-mobile {
+   display: block;
    max-width: 100%;
    height: auto;
   }

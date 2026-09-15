@@ -257,6 +257,9 @@ border-bottom: 0.05rem solid #b9b8b8;
 font-family: "Inter", sans-serif;
 }
 
+#prices, #WD, #DM, #SM {
+ border-bottom: 0.05rem solid #b9b8b8;
+}
 
 .projects {
 display: flex;

@@ -391,8 +391,8 @@ height: 13rem;
 margin: 1rem;
 
    #prtfolio-prev-img {
-max-width: auto;
-height: 8rem;
+max-width: 100%;
+  height: auto;
 margin: 1rem;
  
  #about-section{

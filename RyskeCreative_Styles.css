@@ -388,11 +388,13 @@ background-color:#4b434b;
 
  #intro h2 {
   flex-wrap: wrap;
+ }
 
  #ab-img {
 max-width: auto;
 height: 13rem;
 margin: 1rem;
+ }
 
    #prtfolio-prev-img {
 display: none;

@@ -391,9 +391,9 @@ height: 13rem;
 margin: 1rem;
 
    #prtfolio-prev-img {
-max-width: 100%;
+width: 3rem;
   height: auto;
-margin: 1rem;
+   }
  
  #about-section{
     flex-direction: column;

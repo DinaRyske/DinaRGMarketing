@@ -95,7 +95,7 @@ display: block;
 
 /*About me and cta on home page*/
 
-#about-me, #CTA-HOME, {
+#about-me, #CTA-HOME {
 margin: 1rem;
 padding: 5rem;
 gap: 1rem;

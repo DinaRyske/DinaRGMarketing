@@ -97,7 +97,7 @@ display: block;
 
 #about-me, #CTA-HOME, {
 margin: 1rem;
-padding: 1rem;
+padding: 5rem;
 gap: 1rem;
 text-align: center;
 border-top: 0.05rem solid #b9b8b8;
@@ -192,6 +192,7 @@ background-image: url("Resources/backgroundimage.png");
 justify-content: space-around;
 font-style: italic;
 margin-top: 0rem;
+ padding: 5rem;
 }
 
 #intro-text {

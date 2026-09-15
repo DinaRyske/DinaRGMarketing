@@ -375,6 +375,10 @@ background-color:#4b434b;
  }
 
  #intro {
+  background-image: url("Resources/Background-mobile3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   background-color: #c5b0ca;
  }
 

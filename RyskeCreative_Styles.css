@@ -392,8 +392,12 @@ background-color:#4b434b;
 
  #intro h2 {
   flex-wrap: wrap;
+  padding-right: 1rem;
  }
-
+ 
+#into-text {
+ padding-right: 1rem;
+}
  #ab-img {
 max-width: auto;
 height: 13rem;

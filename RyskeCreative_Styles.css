@@ -184,7 +184,8 @@ border-bottom: 0.05rem solid #b9b8b8;
 #intro {
 display: flex;
  flex-direction: row;
-background-image: url("Resources/backgroundimage.png");
+background-image: url("Resources/Painting-backgroundimage-1.png
+");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -337,7 +338,7 @@ margin: 1.5rem;
 
 /*make responsive for mobile*/
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1032px) {
 
 #hamburger {
     display: flex;
@@ -383,10 +384,10 @@ background-color:#4b434b;
  }
 
  #intro {
-  background-image: url("Resources/Background-mobile3.png");
-  background-repeat: no-repeat;
+  background-image: none !important);
+  /*background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center;*/
   background-color: #c5b0ca;
  }
 

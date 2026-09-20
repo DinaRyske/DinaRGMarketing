@@ -184,12 +184,12 @@ border-bottom: 0.05rem solid #b9b8b8;
 #intro {
 display: flex;
  flex-direction: row;
-background-image: url("Resources/Painting-backgroundimage-1.png
+/*background-image: url("Resources/Painting-backgroundimage-1.png
 ");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-/*align-items: center;*/
+ align-items: center;*/
 justify-content: space-around;
 font-style: italic;
 margin-top: 0rem;

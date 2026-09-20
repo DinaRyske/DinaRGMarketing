@@ -338,7 +338,7 @@ margin: 1.5rem;
 
 /*make responsive for mobile*/
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 600px) {
 
 #hamburger {
     display: flex;
@@ -384,8 +384,8 @@ background-color:#4b434b;
  }
 
  #intro {
-  background-image: none !important);
-  /*background-repeat: no-repeat;
+  /*background-image: none !important);
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;*/
   background-color: #c5b0ca;

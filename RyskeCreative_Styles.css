@@ -338,7 +338,7 @@ margin: 1.5rem;
 
 /*make responsive for mobile*/
 
-@media screen and (max-width: 1032px) {
+@media screen and (max-width: 650px) {
 
 #hamburger {
     display: flex;

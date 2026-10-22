@@ -186,7 +186,7 @@ display: flex;
 justify-content: space-around;
 font-style: italic;
 margin-top: 0rem;
- padding-bottom: 2rem;
+ padding-bottom: 4rem;
 }
 
 #into-text {
@@ -381,15 +381,17 @@ background-color:#4b434b;
   width: 100vw;
    max-width: 100%;
   background-color: #c5b0ca;
+  display: flex;
+  justify-conent: space-around;
  }
 
  #intro h2 {
   flex-wrap: wrap;
-  padding-right: 1rem;
+  /*padding-right: 1rem;*/
  }
  
 #into-text {
- padding-right: 0.5rem;
+ /*padding-right: 0.5rem;*/
 }
  
  #ab-img {
